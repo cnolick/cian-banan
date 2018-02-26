@@ -1,4 +1,3 @@
-from sqlalchemy import create_engine, desc
 from sqlalchemy.orm import sessionmaker
 from  model import Request, Object
 import config
